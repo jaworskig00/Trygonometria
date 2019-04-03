@@ -16,7 +16,18 @@ class ViewController: UIViewController {
         Question(image: "cat.jpg", answer: 2, firstButtonTitle: "b/c", secondButtonTitle: "a/b", thirdButtonTitle: "b/a", fourthButtonTitle: "a/c", questionContent: "Który wzór jest równy cos β?"),
         Question(image: "cat.jpg", answer: 3, firstButtonTitle: "b/c", secondButtonTitle: "b/a", thirdButtonTitle: "a/c", fourthButtonTitle: "a/b", questionContent: "Który wzór jest równy ctg β?"),
         Question(image: "cat.jpg", answer: 4, firstButtonTitle: "1", secondButtonTitle: "2", thirdButtonTitle: "3", fourthButtonTitle: "4", questionContent: "Ile wynosi tg α?"),
-        Question(image: "cat.jpg", answer: 3, firstButtonTitle: "1", secondButtonTitle: "2", thirdButtonTitle: "3", fourthButtonTitle: "4", questionContent: "Ile wynosi sin β?")
+        Question(image: "cat.jpg", answer: 3, firstButtonTitle: "1", secondButtonTitle: "2", thirdButtonTitle: "3", fourthButtonTitle: "4", questionContent: "Ile wynosi sin β?"),
+        /* Wymysl jakies pytania 
+         Question(image: "cat.jpg", answer: 3, firstButtonTitle: "1", secondButtonTitle: "2", thirdButtonTitle: "3", fourthButtonTitle: "4", questionContent: "Ile wynosi sin β?"),
+        Question(image: "cat.jpg", answer: 3, firstButtonTitle: "1", secondButtonTitle: "2", thirdButtonTitle: "3", fourthButtonTitle: "4", questionContent: "Ile wynosi sin β?"),
+        Question(image: "cat.jpg", answer: 3, firstButtonTitle: "1", secondButtonTitle: "2", thirdButtonTitle: "3", fourthButtonTitle: "4", questionContent: "Ile wynosi sin β?"),
+        Question(image: "cat.jpg", answer: 3, firstButtonTitle: "1", secondButtonTitle: "2", thirdButtonTitle: "3", fourthButtonTitle: "4", questionContent: "Ile wynosi sin β?"),
+        Question(image: "cat.jpg", answer: 3, firstButtonTitle: "1", secondButtonTitle: "2", thirdButtonTitle: "3", fourthButtonTitle: "4", questionContent: "Ile wynosi sin β?"),
+        Question(image: "cat.jpg", answer: 3, firstButtonTitle: "1", secondButtonTitle: "2", thirdButtonTitle: "3", fourthButtonTitle: "4", questionContent: "Ile wynosi sin β?"),
+        Question(image: "cat.jpg", answer: 3, firstButtonTitle: "1", secondButtonTitle: "2", thirdButtonTitle: "3", fourthButtonTitle: "4", questionContent: "Ile wynosi sin β?"),
+        Question(image: "cat.jpg", answer: 3, firstButtonTitle: "1", secondButtonTitle: "2", thirdButtonTitle: "3", fourthButtonTitle: "4", questionContent: "Ile wynosi sin β?"),
+        Question(image: "cat.jpg", answer: 3, firstButtonTitle: "1", secondButtonTitle: "2", thirdButtonTitle: "3", fourthButtonTitle: "4", questionContent: "Ile wynosi sin β?"),
+        Question(image: "cat.jpg", answer: 3, firstButtonTitle: "1", secondButtonTitle: "2", thirdButtonTitle: "3", fourthButtonTitle: "4", questionContent: "Ile wynosi cos 1/2α?")*/
     ]
 
     @IBOutlet weak var firstButton: UIButton!
